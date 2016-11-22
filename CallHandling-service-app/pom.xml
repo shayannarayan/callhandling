@@ -223,7 +223,7 @@
                     <version>2.2</version>
                     <configuration>
                         <url>http://localhost:8081/manager/text</url>
-                        <server>TomcatServer</server>
+                        <server>tomcat</server>
                         <path>/opt/tomcat/webapps</path>
                     </configuration>
                 </plugin>
