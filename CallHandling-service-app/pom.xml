@@ -224,7 +224,7 @@
                     <configuration>
                         <url>http://localhost:8081/</url>
                         <server>tomcat</server>
-                        <path>/opt/tomcat/webapps</path>
+                        <path>mywebapps</path>
                     </configuration>
                 </plugin>
 		</plugins>      
