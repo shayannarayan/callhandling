@@ -15,6 +15,7 @@ public class CallHandlingBootApplication {
 	}  
            
 	public static void main(String[] args) {  
+		System.out.println("call handling started");
 		SpringApplication.run(CallHandlingBootApplication.class, args);  
 	}                           
 	                                                           
