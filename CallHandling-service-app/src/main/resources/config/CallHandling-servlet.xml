@@ -19,8 +19,8 @@
 			<bean class="com.fasterxml.jackson.jaxrs.json.JacksonJsonProvider" />
 			<!-- <ref bean="exceptionMapper"/>
 			<ref bean="validationInInterceptor"/>
-			<ref bean="validationOutInterceptor"/>
-			<ref bean="corsFilter"/> -->
+			<ref bean="validationOutInterceptor"/> -->
+			<ref bean="corsFilter"/> 
 		</jaxrs:providers>
 	</jaxrs:server>
 
